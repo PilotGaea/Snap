@@ -1,0 +1,9 @@
+D:\公司Sample_Git\Map Server Plugin\Snap\bin\Debug\Snap.dll
+D:\公司Sample_Git\Map Server Plugin\Snap\bin\Debug\Snap.pdb
+D:\公司Sample_Git\Map Server Plugin\Snap\bin\Debug\TMPEngine.dll
+D:\公司Sample_Git\Map Server Plugin\Snap\bin\Debug\TMPEngine.xml
+D:\公司Sample_Git\Map Server Plugin\Snap\obj\Debug\Snap.csprojAssemblyReference.cache
+D:\公司Sample_Git\Map Server Plugin\Snap\obj\Debug\Snap.csproj.CoreCompileInputs.cache
+D:\公司Sample_Git\Map Server Plugin\Snap\obj\Debug\Snap.csproj.CopyComplete
+D:\公司Sample_Git\Map Server Plugin\Snap\obj\Debug\Snap.dll
+D:\公司Sample_Git\Map Server Plugin\Snap\obj\Debug\Snap.pdb
